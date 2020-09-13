@@ -1,0 +1,14 @@
+intermediary: Jérôme Marquis
+
+items:
+  - reference: T20-02263
+    date: 2020-08-31
+    type: patch
+    subject: Journalisation impossible (MNED)
+    description: Réparation du patch incomplet fourni la semaine précédente et qui avait été cassé l’environnement.
+
+  - reference: T20-12588
+    date: 2020-08-31
+    type: intervention
+    subject: Problème de compatibilité Edge avec ITHit
+    description: Mise à jour de la documentation Elise pour être plus précis. Réponse aux demandes de précisions du client

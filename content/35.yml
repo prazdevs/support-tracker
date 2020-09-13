@@ -1,0 +1,15 @@
+intermediary: Zakaria Sahmane
+
+items:
+  - reference: T20-15914
+    date: 2020-08-26
+    type: intervention
+    subject: Problème d’organigramme
+    description: Le client a procédé à une duplication de VM pour migrer la nouvelle en Elise6. Suite à cette migration, dans l’organigramme, tous les utilisateurs apparaissent en rouge. Après mon intervention avec Emna, nous avons remarqué que dans l’annuaire du CF3, nous avions 3 fournisseurs tandis que dans l’annuaire CF4 le fournisseur GED était manquant dans l’annuaire et il était impossible de le recréer.
+
+
+  - reference: T20-12715
+    date: 2020-08-25
+    type: bug
+    subject: Dans le portail classique, dans la fenêtre d'envoi par mail, tenter d'afficher l'aperçu renvoie une erreur
+    description: Il arrive que lorsqu’on clique sur la loupe d’aperçu d’envoi d’email dans le portail classique, la page tombe en erreur. Dans le cadre du SN3 de cette semaine, il s’avère que le client avait également un problème de xslt qui a été corrigé et envoyé au client.
